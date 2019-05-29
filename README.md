@@ -5,5 +5,5 @@
 ## I bulid this web scraping pipline with python, pandas and beautifulsoup. Created a main table from wiki link: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population, and add cities' founded date and time zone information from sub-links in this table.
 
 ## Steps to run this script:
-## 1. Download this script and cd into that folder;
+## 1. Download this script and pip3 install required packages, then cd into that folder;
 ## 2. run: python3 Wensong_Liu_assignment.py in command line and wait for results(need a little time to run this script).
